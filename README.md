@@ -38,7 +38,7 @@ The main challenge of this project was learning how to use the `if let` syntax i
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Christina Peng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
